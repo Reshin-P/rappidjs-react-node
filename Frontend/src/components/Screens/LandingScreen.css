@@ -1,0 +1,47 @@
+.MainDiv {
+  border: solid 3px rgb(0, 0, 0);
+}
+.leftDiv {
+  width: 15%;
+  background-color: rgb(240, 118, 18);
+  display: flex;
+  justify-content: center;
+
+}
+.rightDiv {
+  width: 80%;
+  border: solid 3px rgb(43, 23, 23);
+  display: flex;
+  justify-content: center;
+
+}
+.Seconddiv {
+  display: flex;
+  justify-content: center;
+
+  height: 900px;
+}
+.tools {
+  height: 70px;
+  color: chocolate;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50PX;
+  padding-right: 50PX;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.leftInner{
+    margin-top: 30px;
+    width: 70%;
+}
+.paperhead{
+    font-size: 26px;
+    font-weight: bolder;
+    color: rgb(94, 53, 75);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.modalInner{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
